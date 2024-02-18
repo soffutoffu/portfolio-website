@@ -1,0 +1,17 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="email" clip-path="url(#clip0_211_107)">
+<g id="Page 1">
+<g id="icon set">
+<g id="email_2">
+<path id="rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M5.37169 6.21851H18.5457C19.098 6.21851 19.5457 6.66622 19.5457 7.21851C19.5457 7.21962 19.5457 7.22073 19.5457 7.22184L19.5157 16.2007C19.5139 16.7517 19.0667 17.1974 18.5157 17.1974H5.36169C4.80941 17.1974 4.36169 16.7496 4.36169 16.1974C4.36169 16.197 4.36169 16.1966 4.36169 16.1962L4.37169 7.21739C4.3723 6.66554 4.81984 6.21851 5.37169 6.21851Z" stroke="#ECECEC" stroke-opacity="0.8" stroke-width="1.5" stroke-linejoin="round"/>
+<path id="arrow" d="M19.3498 6.69098C19.3498 6.69098 16.9039 8.78475 12.0122 12.9723M12.0122 12.9723C7.09615 8.78475 4.63811 6.69098 4.63811 6.69098L12.0122 12.9723Z" stroke="#ECECEC" stroke-opacity="0.8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_211_107">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
