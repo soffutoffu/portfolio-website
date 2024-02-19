@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="portfolio.js"></script>
     <link rel="stylesheet" href="portfolio.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,18 +17,19 @@
     <nav class="navbar">
         <div class="container">
         <div class="logo">
-            <a href="index.html">Sofia Mesterton</a>
+            <a href="portfolio.html">Sofia Mesterton</a>
+            
         </div>
 
+        
 
             <div class="main-menu">
         <ul>
-             <li class="current work"><a href="About me.html">About</a></li>
-            <li class="current about"><a href="index.html">Work</a></li>
-            <li class="current work"><a href="mailto:sofia.mesterton@protonmail.com">sofia.mesterton@protonmail.com</a></li>
+            <li class="hideOnMobile"><a href="About me.html">About</a></li>
+            <li class="hideOnMobile"><a href="portfolio.html">Work</a></li>
+            <li class="currentmail"><a href="mailto:sofia.mesterton@protonmail.com">sofia.mesterton@protonmail.com</a></li>
 
-            
-            <!--<li>
+          <!--  <li>
                 <div class="btn" href="#">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                         <g clip-path="url(#clip0_211_107)">
@@ -41,12 +43,52 @@
                         </defs>
                         </svg>
                  Let's Talk
-                </a> -->
-            </li>
-          </ul>
-        </div></div>
-    </nav>
+                </a>  -->       <div class="container">
 
+            <li class="menubutton" onclick=showSidebar()><a href="#"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="hamburger" clip-path="url(#clip0_469_165)">
+                <g id="Page 1">
+                <g id="icon set">
+                <g id="hamburger_2">
+                <path id="Combined Shape" d="M5.66113 17.3846H18.5698M5.66113 7.38464H18.5698H5.66113ZM5.66113 12.3846H18.5698H5.66113Z" stroke="#F9F9F9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </g>
+                </g>
+                </g>
+                </g>
+                <defs>
+                <clipPath id="clip0_469_165">
+                <rect width="24" height="24" fill="white"/>
+                </clipPath>
+                </defs>
+                </svg>
+                </a></li></div></div>
+          </ul>
+         </nav>
+
+    <!--Hamburger button  
+ <button class="mobile-nav-toggle">Menu</button> -->
+
+ <div class="sidebar">
+   
+<ul>
+    <li class="closebutton" onclick="hideSidebar()"><a href="#"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_486_179)">
+        <path d="M7.23828 7.40198L16.7617 16.598M16.7617 7.40198L7.23828 16.598L16.7617 7.40198Z" stroke="#F9F9F9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+        <defs>
+        <clipPath id="clip0_486_179">
+        <rect width="24" height="24" fill="white"/>
+        </clipPath>
+        </defs>
+        </svg>
+        </a></li>
+    <li class="mobile about"><a href="index.html">Work</a></li>
+    <li class="mobile work"><a href="about.html">About</a></li>
+    <li class="mobile contact"><a href="contact.html">Contact</a></li></ul>
+
+
+       </div>
+   
     <!--Hero-->
     <section class="hero">
         <div class="container">
