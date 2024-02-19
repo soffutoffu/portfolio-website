@@ -24,7 +24,10 @@ img {
 }
 
 /* Utility Classes */
-
+.cvkuva{
+width: 800px;
+height: 800px;
+}
 .piilotettu {
 
 display: none;
