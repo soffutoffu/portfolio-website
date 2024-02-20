@@ -47,9 +47,15 @@ display: none;
 
 /*Navbar*/
 .navbar {
-    padding: 8px;
+
 }
 
+.main-menu {
+padding-top: 24px;
+}
+.logo {
+padding-top: 24px;
+}
 .navbar .container {
     display: flex;
     justify-content: space-between;
