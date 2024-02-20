@@ -359,7 +359,6 @@ margin-left: 1000px;
    } 
 
    .kuvaesimerkki {
-    max-width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
