@@ -618,6 +618,13 @@ margin-bottom: 80px;
     margin-bottom: 80px;
     font-size: 16px;
     }
+ .yhteydenotto p.copyright3 {
+        font-size: 16px; /* Adjust the font size as needed */
+        color: #888; /* Adjust the color as needed */
+        /* Other styles */
+        padding-bottom: 80px; 
+    }
+
 
 /* Mobile menu */
 
