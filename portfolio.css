@@ -138,6 +138,11 @@ padding-top: 40px;
 
 /*Text Classes */
 
+.kuvaus2{
+margin-top: -150px;
+margin-bottom: 32px;
+}  
+
 .text-large {
 margin-left: 32px;
 margin-top: 32px:
@@ -479,7 +484,7 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-margin-left: 80px;
+margin-left: 40px;
     } 
 
     .item4 {
@@ -513,6 +518,7 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+margin-left: -40px;
     } 
 
 .flex-container {
