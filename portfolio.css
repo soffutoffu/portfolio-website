@@ -144,7 +144,7 @@ margin-top: 32px:
 }
 
 .text-large2 {
-margin-top: -48px:
+margin-top: -80px:
 }
 
 .text-lg77 {
@@ -232,6 +232,7 @@ flex-shrink: 0;
     font-weight: 400;
     line-height: normal;
     /*margin-left: 530px;*/
+    display: none;
     
 }
 
