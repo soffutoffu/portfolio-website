@@ -138,6 +138,10 @@ padding-top: 40px;
 
 /*Text Classes */
 
+.text-large {
+margin-left: 32px;
+}
+
 .text-lg77 {
     font-size: 24px;
     font-weight: 300;
