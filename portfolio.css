@@ -25,6 +25,10 @@ img {
 
 /* Utility Classes */
 
+.placeholder8 {
+    margin-bottom: 48px;
+}
+
 .koonmuutos img {
     width: 1120px;
     height: 746.14px;
