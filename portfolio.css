@@ -810,9 +810,7 @@ transition: opacity 0.3s ease;
 
 @media (max-width: 960px) {
 
- .kuvaus222 {
-margin-top:100px;
-    } 
+
       .currentmail {
 display: none;
     } 
@@ -879,7 +877,7 @@ height: 78px;
 height: 36px;
 flex-shrink: 0;
 font-size: 20px;
-margin-top: 48px;
+margin-top: 200px;
 margin-bottom: 64px;
 
                     }
