@@ -810,7 +810,12 @@ transition: opacity 0.3s ease;
 
 @media (max-width: 960px) {
 
-
+  .flex-container {
+display: none;
+    } 
+    .flex-container2 {
+display: none;
+    } 
       .currentmail {
 display: none;
     } 
