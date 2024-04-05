@@ -120,7 +120,7 @@ padding-top: 40px;
     border-radius: 120px;
     margin-top: -340px;
     margin-left: 320px;
-    
+
 }
 
 .btn svg {
@@ -144,7 +144,7 @@ padding-top: 40px;
 
 .hero-heading2{
 margin-bottom: -150px;
-}  
+}
 
 .text-large {
 margin-top: 8px;
@@ -165,9 +165,9 @@ margin-top:-8px;
     color: #F9F9F9;
     width: 600px;
     margin-top: 150px;
-    
-    
-     } 
+
+
+     }
 .text-xxl {
     width: 1100px;
 height: 264px;
@@ -245,7 +245,7 @@ flex-shrink: 0;
     line-height: normal;
     /*margin-left: 530px;*/
     display: none;
-    
+
 }
 
 .text-lg4 {
@@ -261,7 +261,7 @@ height: 181px;
 flex-shrink: 0;
 margin-top: 16px;
 
-} 
+}
 
 .text-lg5 {
     width: 1100px;
@@ -310,18 +310,18 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 margin-top: 100px;
-} 
+}
 
 .seolenmina {
 
     margin-top: 64px; /* Adjust the top margin as needed */
     width: max-content;
-  } 
+  }
 
 
 .overview-text {
  margin-top: 800px;
-} 
+}
 
 .about-me {
     width: 584px;
@@ -335,19 +335,19 @@ font-weight: 400;
 line-height: 143.75%; /* 46px */
 margin-left: 400px;
 margin-top: -30px;
-   } 
-   
+   }
 
- 
-   
+
+
+
    .experience {
     margin-top: 500px;
-   } 
+   }
 
    .nelio {
     margin-left: 500px;
     margin-top: -25px;
-   } 
+   }
 
    .airbnb {
     margin-left: 500px;
@@ -359,7 +359,7 @@ font-weight: 400;
 line-height: normal;
 margin-left: 650px;
 margin-top: -157px;
-   } 
+   }
 
    .airbnb2 {
     margin-left: 500px;
@@ -371,7 +371,7 @@ font-weight: 400;
 line-height: normal;
 margin-top: 12px;
 margin-left: 650px;
-   } 
+   }
 
    .airbnb3 {
 
@@ -383,20 +383,20 @@ font-weight: 400;
 line-height: normal;
 margin-top: -72px;
 margin-left: 1000px;
-   } 
+   }
 
    .kuvaesimerkki {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 40px; 
+    margin-top: 40px;
     margin-bottom: 32px;
-    transition: opacity 0.3s ease; 
-    
+    transition: opacity 0.3s ease;
+
 }
 
 .kuvaesimerkki:hover {
-    opacity: 0.7; 
+    opacity: 0.7;
 }
 
 .kuvaesimerkki img {
@@ -412,7 +412,7 @@ margin-left: 1000px;
 .kuvausteksti {
 margin-top: 16px;
 margin-bottom: -40px;
-} 
+}
 
 .kuvausteksti {
     width: 840px;
@@ -427,7 +427,7 @@ font-style: normal;
 font-weight: 400;
 line-height: 150%;
 
-    } 
+    }
 
     .kuvausteksti2 {
         width: 726px;
@@ -441,7 +441,7 @@ font-weight: 500;
 line-height: normal;
 margin-top: 16px;
 margin-bottom: 16px;
-    } 
+    }
     .kuvausteksti4 {
         width: 600px;
         height: 69px;
@@ -455,7 +455,7 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 margin-bottom: 56px;
-    } 
+    }
 
 
     .item {
@@ -468,7 +468,7 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 display: flex;
-    } 
+    }
 
     .item2 {
         width: 105px;
@@ -479,7 +479,7 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-    } 
+    }
 
     .item3 {
         width: 105px;
@@ -491,7 +491,7 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 margin-left: 40px;
-    } 
+    }
 
     .item4 {
         width: 105px;
@@ -503,7 +503,7 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 padding-left: -16px;
-    } 
+    }
 
     .item5 {
         width: 185px;
@@ -515,7 +515,7 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
         padding-left: -16px;
-    } 
+    }
 
     .item6 {
         width: 292px;
@@ -529,7 +529,7 @@ line-height: normal;
 margin-left: -40px;
 padding-left: -16px;
 
-    } 
+    }
 
 .flex-container {
     margin-top: 16px;
@@ -538,7 +538,7 @@ padding-left: -16px;
     justify-content: start;
     flex-wrap: wrap;
     gap: 48px;
-} 
+}
 
 
 .flex-container2 {
@@ -549,7 +549,7 @@ padding-left: -16px;
     margin-top: 8px;
     margin-bottom: 24px;
     gap: 48px;
-} 
+}
 
 
 .line {
@@ -557,14 +557,14 @@ padding-left: -16px;
     height: 1px;
     background: #424242;
     margin-bottom: -48px;
-} 
+}
 
 .line2 {
     width: 1092px;
     height: 1px;
     background: #424242;
     margin-top: -90px;
-} 
+}
 v
 .placeholder2 {
 margin-top: 48px;
@@ -598,16 +598,16 @@ margin-top: 48px;
                      .placeholder9 {
                         margin-top: 8px;
                          }
-        
-            
 
-    
+
+
+
 
     .flex-container3 {
         display: flex;
         align-items: start;
         margin-top: 32px;
-    
+
 
 
     }
@@ -619,7 +619,7 @@ margin-top: 48px;
 
     display: inline-flex;
 align-items: flex-start;
-gap: 16px; 
+gap: 16px;
 margin-top: 65px;
 }
 
@@ -634,7 +634,7 @@ margin-top: 65px;
 .footerul li a svg {
     margin-left: 8px; /* Adjust the margin as needed */
     vertical-align: middle;
-    
+
 }
 
 .copyright {
@@ -656,8 +656,8 @@ margin-bottom: 80px;
         /* Other styles */
         padding-bottom: 80px;
      padding-top: 72px;
-     
-     
+
+
     }
 
 
@@ -676,21 +676,21 @@ flex-direction: column;
 align-items: flex-start;
 justify-content: flex-start;
 color: #F9F9F9;
-} 
+}
 
 .sidebar ul {
    margin-top: 96px;
-    } 
+    }
 .sidebar li {
 width: 100%;
 padding-left: 48px;
 font-size: 32px;
 padding-top: 40px;
-} 
+}
 
 .sidebar a {
     width: 100%;
-    } 
+    }
 
 
 .mobile-nav-toggle {
@@ -702,28 +702,28 @@ padding-top: 40px;
         padding: 0; /* Remove padding */
         cursor: pointer;
         display: none;
-         
-         } 
+
+         }
 
 .menubutton {
-    display: none !important;   
-                
-        } 
+    display: none !important;
 
- 
+        }
+
+
 .closebutton {
     margin-left: 120px;
-    margin-top: -64px;   
+    margin-top: -64px;
     margin-bottom: 64px;
-                
-        }       
 
-        .mobiiliversio { 
+        }
+
+        .mobiiliversio {
     display: none;
-        
-        }  
-        
-        .text-lg222 { 
+
+        }
+
+        .text-lg222 {
             font-size: 14px;
             color: #FFF;
 leading-trim: both;
@@ -736,10 +736,10 @@ line-height: normal;
 margin-bottom: 8px;
 margin-top: -16px;
 display: none;
-                
-                } 
-    
-                .text-lg333 { 
+
+                }
+
+                .text-lg333 {
                 font-size: 14px;
                 color: #9B9B9B;
 leading-trim: both;
@@ -750,27 +750,27 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 display: none;
-                        
-                        } 
+
+                        }
 
 .placeholder2tablet{
 display: none !important;
-                          } 
+                          }
 .placeholder1tablet{
                             display: none !important;
-                          } 
-                        
-                        
-        
+                          }
+
+
+
 
 
 @media (max-width: 3000px) {
-  
- 
+
+
 
     .text-xxl {
         display: block !important;
-                                    
+
         }
 
         .text-lg {
@@ -779,49 +779,57 @@ display: block !important;
 
         .text-lg2 {
 display: block !important;
-        }   
-    
+        }
+
         .text-lg3 {
             display: block !important;
-                    } 
+                    }
                     .text-lg22 {
                         display: none !important;
-                                }   
-                            
+                                }
+
                                 .text-lg33 {
                                     display: none !important;
-                                            } 
+                                            }
 /*.kuvaesimerkki {
 display: block !important;
 align-items: center !important;
 display: flex;
 justify-content: center !important;
 align-items: center;
-margin-top: 40px; 
+margin-top: 40px;
 margin-bottom: 32px;
-transition: opacity 0.3s ease; 
+transition: opacity 0.3s ease;
                     } */
-                    
+
                     @media (max-width: 1920px) {
-                       
-                        
+
+
                     }}
 
 
 @media (max-width: 960px) {
 
+  .kuvankoko{
+  margin-bottom: 500px !important;
+
+    }
+.placeholder2222{
+margin-bottom: 300px !important;
+margin-top: 300px !important;
+  }
   .flex-container {
 display: none;
-    } 
+    }
     .flex-container2 {
 display: none;
-    } 
+    }
       .currentmail {
 display: none;
-    } 
+    }
     .kuvaesimerkki {
         display: none;
-       
+
     }
 
     .tablettikuva {
@@ -831,7 +839,7 @@ display: none;
     align-items: center;
     margin-top: 40px; /* Adjust the top margin as needed */
     margin-bottom: 32px;
-    transition: opacity 0.3s ease; 
+    transition: opacity 0.3s ease;
     }
 
     .tablettikuva:hover {
@@ -860,37 +868,115 @@ display: none;
         /* styles for the mobile nav toggle button */
     }
 
-    .text-xxl {
-        font-size: 40px;
-        width: 605px;
-height: 78px;
-                                    
+    .text-lg {
+        margin-top: 150px !important;
+
         }
+
+    .kuvausteksti {
+        font-size: 16px !important;
+        width: 272px;
+height: 275px;
+flex-shrink: 0;
+color: #F9F9F9;
+leading-trim: both;
+text-edge: cap;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 21px */
+margin-top: -90px;
+margin-bottom: -16px;
+
+        }
+
+        .kuvausteksti2{
+          color: #FFF;
+leading-trim: both;
+text-edge: cap;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+          }
+          .kuvausteksti123{
+          margin-top: 8px !important;
+            }
+
+          .kuvausteksti4{
+            width: 271px;
+  height: 44px;
+  flex-shrink: 0;
+  color: #B2B2B2;
+leading-trim: both;
+text-edge: cap;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: -55px;
+margin-bottom: 24px;
+
+            }
+
+.kuvausteksti444{
+width: 271px;
+height: 44px;
+flex-shrink: 0;
+color: #B2B2B2;
+leading-trim: both;
+text-edge: cap;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 12px;
+}
+.kuvausteksti2222 {
+width: 272px;
+color: #FFF;
+leading-trim: both;
+text-edge: cap;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 16px;
+}
+        .text-xxl {
+            font-size: 40px;
+            width: 605px;
+    height: 78px;
+
+            }
 
         .text-xxl2 {
             font-size: 40px;
-            
-                                        
+
+
             }
 
-  
+            .text-lg {
+              display: none;
+            }
 
 
 
-        .text-lg {
-            width: 719px;
-height: 36px;
-flex-shrink: 0;
-font-size: 20px;
-margin-top: 200px;
-margin-bottom: 64px;
 
-                    }
+
+
+
 
                     .text-lg2 {
                         display: none !important;
-                                } 
-                                
+                                }
+
                                 .text-lg3 {
                                     display: none !important;
                                 }
@@ -905,7 +991,7 @@ font-style: normal;
 font-weight: 500;
 line-height: normal;
 display: block !important;
- } 
+ }
 
 
 
@@ -924,44 +1010,50 @@ display: block !important;
     display: block !important;
 
 
-                                                               
-            
-        }   
+
+
+        }
         .placeholder1{
         width: 375px;
         height: 241.36px;
-          } 
+          }
 
 
           .placeholder2{
              width: 272px;
         height: 293px;
-          } 
+          }
 
 
           .placeholder1{
             width: 272px;
         height: 293px;
-          } 
+          }
 
+          .placeholder666{
+            padding-top: -1000px;
+              }
+              .kuvausteksti321{
+                margin-top: 16px !important;
+              }
  .kuvausteksti2{
             font-size:18px
      width: 271px;
 height: 69px;
-          } 
+          }
 
  .kuvausteksti4{
             font-size: 16px
      width: 271px;
 height: 69px;
-          } 
+          }
  .kuvausteksti{
             font-size: 16px
      width: 271px;
 
-          } 
- 
-  } 
+          }
+
+  }
 
 
 
@@ -969,16 +1061,16 @@ height: 69px;
 
 
         .closebutton {
-           
-                                    
-                            } 
 
-                        } 
-                          
-                            
+
+                            }
+
+                        }
+
+
 
 @media (max-width: 500px) {
-  
+
     .logo  {
         width: 88px;
     }
@@ -989,23 +1081,23 @@ height: 69px;
     }
     .footerul{
         display: grid;
-    gap: 32px; 
+    gap: 32px;
     margin-top: 72px;
     }
-    
-    .text-lg22 { 
+
+    .text-lg22 {
         font-size: 14px;
         display: none !important;
-            
-            } 
 
-            .text-lg33 { 
+            }
+
+            .text-lg33 {
             font-size: 14px;
             display: none !important;
-                    
-                    } 
 
-                    .text-lg222 { 
+                    }
+
+                    .text-lg222 {
                         font-size: 14px;
                         color: #FFF;
 leading-trim: both;
@@ -1018,10 +1110,10 @@ line-height: normal;
 margin-bottom: 8px;
 margin-top: -16px;
 display: block;
-                            
-                            } 
-                
-                            .text-lg333 { 
+
+                            }
+
+                            .text-lg333 {
                             font-size: 14px;
                             color: #9B9B9B;
 leading-trim: both;
@@ -1032,39 +1124,39 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 display: block;
-                                    
-                                    } 
-                    
-    
 
-    .tablettikuva { 
+                                    }
+
+
+
+    .tablettikuva {
         display: none;
-            
-            }  
-    .mobiiliversio { 
+
+            }
+    .mobiiliversio {
         display: block;
         display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 40px; /* Adjust the top margin as needed */
     margin-bottom: 32px;
-    transition: opacity 0.3s ease; 
-            
-            }  
+    transition: opacity 0.3s ease;
+
+            }
     .container {
         max-width: 272px;
         margin: 0 auto;
         padding: 0;
-    } 
-   
+    }
+
     .sidebar {
         width: 100%;
-                                        
-    } 
+
+    }
     .closebutton {
         margin-left: 250px;
         margin-bottom: 150px;
-                                        
+
     }
 
     .text-xxl {
@@ -1080,7 +1172,7 @@ font-style: normal;
 font-weight: 600;
 line-height: normal;
         margin-top: 56px;
-                                    
+
         }
 
         .text-lg {
@@ -1096,10 +1188,10 @@ line-height: normal;
             font-weight: 400;
             line-height: normal;
             margin-top: 32px;
-            margin-bottom: 48px;                                
-        } 
+            margin-bottom: 48px;
+        }
 
-  
+
 }
 
 
@@ -1110,10 +1202,10 @@ line-height: normal;
     color: #F9F9F9;
     font-size: 32px;
     background: none;
-    border: none; 
+    border: none;
     padding-top: 0px;
     cursor: pointer;
     display: block;
-    z-index: 9999; 
-     
-     } */ 
+    z-index: 9999;
+
+     } */
